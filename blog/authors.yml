@@ -1,0 +1,23 @@
+ryan:
+  name: Ryan Atkins
+  title: Site Reliability Engineer @ Blizzard
+  url: https://github.com/ryan-atkins
+  image_url: https://github.com/ryan-atkins.png
+  page: true
+  socials:
+    github: ryan-atkins
+    linkedin: ryanatkinsdev
+
+slorber:
+  name: Sébastien Lorber
+  title: Docusaurus maintainer
+  url: https://sebastienlorber.com
+  image_url: https://github.com/slorber.png
+  page:
+    # customize the url of the author page at /blog/authors/<permalink>
+    permalink: '/all-sebastien-lorber-articles'
+  socials:
+    x: sebastienlorber
+    linkedin: sebastienlorber
+    github: slorber
+    newsletter: https://thisweekinreact.com
